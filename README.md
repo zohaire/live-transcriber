@@ -1,2 +1,2 @@
-# live-transcriber
-Android live Arabic and English transcription app
+# Interpreter Trainer
+Android interpreter training application.
